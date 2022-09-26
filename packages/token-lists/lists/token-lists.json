@@ -1,0 +1,20 @@
+{
+  "https://tokens.cubeswap.finance/cubeswap-default.json": {
+    "name": "CubeswapSwap Default",
+    "homepage": "https://cubeswap.exchange"
+  },
+  "https://tokens.cubeswap.finance/cubeswap-extended.json": {
+    "name": "CubeswapSwap Extended",
+    "homepage": "https://cubeswap.exchange"
+    
+  },
+  "https://tokens.cubeswap.finance/cubeswap-top-100.json": {
+    "name": "CubeswapSwap Top 100",
+    "homepage": "https://cubeswap.exchange"
+    
+  },
+  "https://tokens.coingecko.com/cube-smart-chain/all.json": {
+    "name": "CoinGecko",
+    "homepage": "https://www.coingecko.com"
+  }
+}
